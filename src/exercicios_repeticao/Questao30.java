@@ -2,6 +2,7 @@ package exercicios_repeticao;
 
 import javax.swing.JOptionPane;
 
+//EXERCÍCIO INCOMPLETO
 public class Questao30 {
 	
 	public static void main(String[] args) {
