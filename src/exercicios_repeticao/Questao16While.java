@@ -9,7 +9,7 @@ public class Questao16While {
 		int qtF = 0;
 		do {
 			//String nome = JOptionPane.showInputDialog("Nome");
-			sexo = JOptionPane.showInputDialog("Sexo");
+			sexo = JOptionPane.showInputDialog("Sexo: M ou F");
 			if(sexo.equalsIgnoreCase("M")) {
 				qtM ++;
 			}
